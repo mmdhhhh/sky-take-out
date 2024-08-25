@@ -29,7 +29,7 @@
         order by d.create_time desc
     </select>
 
-    <update id="update">
+    <update id="update" parameterType="Dish">
         update  dish
         <set>
             <if test="name!=null">
