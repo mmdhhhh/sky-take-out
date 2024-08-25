@@ -8,7 +8,7 @@ sky:
     password: 3567dmma
   alioss:
     endpoint: oss-cn-qingdao.aliyuncs.com
-    access-key-id: LTAI5tBPY426JNAEwDCmay9g
+    access-key-id: *********
     access-key-secret: ******
     bucket-name: my-web--tlias
   redis:
