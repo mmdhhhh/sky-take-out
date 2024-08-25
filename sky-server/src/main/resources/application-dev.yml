@@ -9,7 +9,7 @@ sky:
   alioss:
     endpoint: oss-cn-qingdao.aliyuncs.com
     access-key-id: LTAI5tBPY426JNAEwDCmay9g
-    access-key-secret: UpNv7iWgtFkuNSo4Yq4OSkah3oliMZ
+    access-key-secret: ******
     bucket-name: my-web--tlias
   redis:
     host: localhost
